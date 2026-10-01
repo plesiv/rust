@@ -7,18 +7,25 @@ It is Copyright (c) The Rust Project Contributors.
 
 Longer version:
 
-Copyrights in the Rust project are retained by their contributors. No
-copyright assignment is required to contribute to the Rust project.
+The Rust Project is dual-licensed under Apache 2.0 and MIT
+terms.
 
-Some files include explicit copyright notices and/or license notices.
-For full authorship information, see the version control history or
-<https://thanks.rust-lang.org>
+Copyrights in the Rust project are retained by their
+contributors. No copyright assignment is required to contribute
+to the Rust project.
 
-Except as otherwise noted, Rust is licensed under the Apache License, Version
-2.0 <LICENSE-APACHE> or <http://www.apache.org/licenses/LICENSE-2.0> or the MIT
-license <LICENSE-MIT> or <http://opensource.org/licenses/MIT>, at your option.
+For full authorship information, see the version control history
+or https://thanks.rust-lang.org
 
-We track licenses for third-party materials in two ways:
+Licensed under the Apache License, Version 2.0 or the MIT
+license, at your option.
+
+Unless you explicitly state otherwise, any contribution
+intentionally submitted for inclusion in the Rust project by
+you, as defined in the Apache-2.0 license, shall be dual
+licensed as above, without any additional terms or conditions.
+
+We track license information for in-tree materials in two ways:
 
 * We use [REUSE](https://reuse.software) to track license information for
   in-tree source files - both those authored by the Rust project and those
