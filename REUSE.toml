@@ -12,6 +12,8 @@ version = 1
 # See https://reuse.software and https://github.com/fsfe/reuse-tool for more
 # details. We currently use reuse-tool version 4.0.3.
 
+abc
+
 [[annotations]]
 path = [
     "compiler/**",
